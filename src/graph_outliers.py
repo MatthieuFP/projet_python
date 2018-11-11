@@ -1,6 +1,6 @@
-from projet_python import CsvDataframe
-from support.constants import *
-from support.my_logger import logger
+from src.projet_python import CsvDataframe
+from src.support.constants import *
+from src.support.my_logger import logger
 
 import plotly.graph_objs as go
 import plotly.offline as offline

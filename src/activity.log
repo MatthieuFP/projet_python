@@ -1,0 +1,4 @@
+2018-11-11 17:16:13,314 :: INFO :: start importing the first 10000 lines of the train_df
+2018-11-11 17:16:13,378 :: INFO :: start formatting the train_df
+2018-11-11 17:16:14,453 :: INFO :: the new number of lines in the df is 9478
+2018-11-11 17:16:14,454 :: INFO :: done formatted the df

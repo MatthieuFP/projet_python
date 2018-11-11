@@ -1,12 +1,12 @@
-from projet_python import CsvDataframe
-from support.constants import *
+from src.projet_python import CsvDataframe
+from src.support.constants import *
 import numpy as np
 
 from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import r2_score
 
-Data = CsvDataframe(nrows=1000000)
+Data = CsvDataframe(nrows=10000)
 df = Data.df
 X = np.array(df[Distance]).reshape(-1,1)
 Y = df[Fare_amount]

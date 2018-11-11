@@ -6,12 +6,12 @@ Created on Fri Nov  9 20:33:54 2018
 @author: matthieufuteral-peter
 """
 
-from support.my_logger import logger
+from src.support.my_logger import logger
 import pandas as pd
 import datetime
 import geopy.distance
 
-from support.constants import *
+from src.support.constants import *
 
 class CsvDataframe:
 
