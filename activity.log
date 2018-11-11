@@ -1,0 +1,164 @@
+2018-11-11 13:30:30,082 :: INFO :: start importing the first 200000 lines of the train_df
+2018-11-11 13:30:30,991 :: INFO :: start formatting the train_df
+2018-11-11 13:30:46,471 :: INFO :: df formatted
+2018-11-11 13:31:26,118 :: INFO :: start importing the first 200000 lines of the train_df
+2018-11-11 13:31:27,019 :: INFO :: start formatting the train_df
+2018-11-11 13:31:42,452 :: INFO :: df formatted
+2018-11-11 13:32:06,351 :: INFO :: start importing the first 200000 lines of the train_df
+2018-11-11 13:33:16,185 :: INFO :: start importing the first 200000 lines of the train_df
+2018-11-11 13:33:39,237 :: INFO :: start importing the first 200000 lines of the train_df
+2018-11-11 13:40:27,201 :: INFO :: start importing the first 200000 lines of the train_df
+2018-11-11 13:40:28,084 :: INFO :: start formatting the train_df
+2018-11-11 13:41:06,497 :: INFO :: df formatted
+2018-11-11 13:44:42,718 :: INFO :: start importing the first 200000 lines of the train_df
+2018-11-11 13:44:43,614 :: INFO :: start formatting the train_df
+2018-11-11 13:46:21,906 :: INFO :: start importing the first 200000 lines of the train_df
+2018-11-11 13:46:22,806 :: INFO :: start formatting the train_df
+2018-11-11 13:47:01,331 :: INFO :: df formatted
+2018-11-11 13:47:06,979 :: INFO :: start importing the first 200000 lines of the train_df
+2018-11-11 13:47:07,861 :: INFO :: start formatting the train_df
+2018-11-11 13:47:46,568 :: INFO :: df formatted
+2018-11-11 13:48:12,337 :: INFO :: start importing the first 200000 lines of the train_df
+2018-11-11 13:48:13,226 :: INFO :: start formatting the train_df
+2018-11-11 13:48:52,995 :: INFO :: df formatted
+2018-11-11 13:50:07,505 :: INFO :: start importing the first 200000 lines of the train_df
+2018-11-11 13:50:08,405 :: INFO :: start formatting the train_df
+2018-11-11 13:50:47,370 :: INFO :: df formatted
+2018-11-11 13:53:34,937 :: INFO :: start importing the first 200000 lines of the train_df
+2018-11-11 13:53:35,904 :: INFO :: start formatting the train_df
+2018-11-11 13:53:52,052 :: INFO :: df formatted
+2018-11-11 13:54:10,366 :: INFO :: start importing the first 200000 lines of the train_df
+2018-11-11 13:54:11,255 :: INFO :: start formatting the train_df
+2018-11-11 13:54:47,791 :: INFO :: start importing the first 200000 lines of the train_df
+2018-11-11 13:54:48,675 :: INFO :: start formatting the train_df
+2018-11-11 13:55:04,288 :: INFO :: df formatted
+2018-11-11 13:56:57,312 :: INFO :: start importing the first 200000 lines of the train_df
+2018-11-11 13:56:58,190 :: INFO :: start formatting the train_df
+2018-11-11 13:57:37,061 :: INFO :: df formatted
+2018-11-11 14:00:35,888 :: INFO :: start importing the first 200000 lines of the train_df
+2018-11-11 14:00:36,858 :: INFO :: start formatting the train_df
+2018-11-11 14:00:52,377 :: INFO :: df formatted
+2018-11-11 14:02:36,684 :: INFO :: start importing the first 200000 lines of the train_df
+2018-11-11 14:02:37,584 :: INFO :: start formatting the train_df
+2018-11-11 14:03:15,812 :: INFO :: df formatted
+2018-11-11 14:04:01,284 :: INFO :: start importing the first 200000 lines of the train_df
+2018-11-11 14:04:02,213 :: INFO :: start formatting the train_df
+2018-11-11 14:04:17,895 :: INFO :: df formatted
+2018-11-11 14:04:40,848 :: INFO :: start importing the first 2000000 lines of the train_df
+2018-11-11 14:04:50,253 :: INFO :: start formatting the train_df
+2018-11-11 14:07:26,676 :: INFO :: df formatted
+2018-11-11 14:20:41,703 :: INFO :: start importing the first 100000 lines of the train_df
+2018-11-11 14:20:42,175 :: INFO :: start formatting the train_df
+2018-11-11 14:20:50,473 :: INFO :: df formatted
+2018-11-11 14:23:06,129 :: INFO :: start importing the first 100000 lines of the train_df
+2018-11-11 14:23:06,579 :: INFO :: start formatting the train_df
+2018-11-11 14:23:25,982 :: INFO :: df formatted
+2018-11-11 14:24:50,174 :: INFO :: start importing the first 100000 lines of the train_df
+2018-11-11 14:24:50,640 :: INFO :: start formatting the train_df
+2018-11-11 14:24:58,587 :: INFO :: df formatted
+2018-11-11 14:31:52,678 :: INFO :: start importing the first 200000 lines of the train_df
+2018-11-11 14:31:53,614 :: INFO :: start formatting the train_df
+2018-11-11 14:44:39,099 :: INFO :: start importing the first 200000 lines of the train_df
+2018-11-11 14:44:40,011 :: INFO :: start formatting the train_df
+2018-11-11 14:45:29,994 :: INFO :: start importing the first 200000 lines of the train_df
+2018-11-11 14:45:30,899 :: INFO :: start formatting the train_df
+2018-11-11 14:46:23,382 :: INFO :: start importing the first 200000 lines of the train_df
+2018-11-11 14:46:24,291 :: INFO :: start formatting the train_df
+2018-11-11 14:47:37,207 :: INFO :: start importing the first 200000 lines of the train_df
+2018-11-11 14:47:38,115 :: INFO :: start formatting the train_df
+2018-11-11 14:59:15,766 :: INFO :: start importing the first 200000 lines of the train_df
+2018-11-11 14:59:16,673 :: INFO :: start formatting the train_df
+2018-11-11 15:00:25,521 :: INFO :: start importing the first 200000 lines of the train_df
+2018-11-11 15:00:26,416 :: INFO :: start formatting the train_df
+2018-11-11 15:03:04,198 :: INFO :: start importing the first 200000 lines of the train_df
+2018-11-11 15:03:05,099 :: INFO :: start formatting the train_df
+2018-11-11 15:06:57,100 :: INFO :: start importing the first 100000 lines of the train_df
+2018-11-11 15:06:57,576 :: INFO :: start formatting the train_df
+2018-11-11 15:07:21,753 :: INFO :: start importing the first 100000 lines of the train_df
+2018-11-11 15:07:22,215 :: INFO :: start formatting the train_df
+2018-11-11 15:07:32,447 :: INFO :: the new number of lines is 0
+2018-11-11 15:07:32,448 :: INFO :: df formatted
+2018-11-11 15:07:53,676 :: INFO :: start importing the first 100000 lines of the train_df
+2018-11-11 15:07:54,159 :: INFO :: start formatting the train_df
+2018-11-11 15:08:04,848 :: INFO :: the new number of lines is 95679
+2018-11-11 15:08:04,857 :: INFO :: df formatted
+2018-11-11 15:10:45,415 :: INFO :: start importing the first 100000 lines of the train_df
+2018-11-11 15:10:45,979 :: INFO :: start formatting the train_df
+2018-11-11 15:10:56,260 :: INFO :: the new number of lines is 96191
+2018-11-11 15:10:56,271 :: INFO :: df formatted
+2018-11-11 15:11:40,398 :: INFO :: start importing the first 100000 lines of the train_df
+2018-11-11 15:11:40,879 :: INFO :: start formatting the train_df
+2018-11-11 15:11:51,651 :: INFO :: the new number of lines is 96225
+2018-11-11 15:11:51,665 :: INFO :: df formatted
+2018-11-11 15:12:48,670 :: INFO :: start importing the first 200000 lines of the train_df
+2018-11-11 15:12:49,684 :: INFO :: start formatting the train_df
+2018-11-11 15:12:55,757 :: INFO :: start importing the first 100000 lines of the train_df
+2018-11-11 15:12:56,366 :: INFO :: start formatting the train_df
+2018-11-11 15:13:11,128 :: INFO :: the new number of lines is 96225
+2018-11-11 15:13:11,143 :: INFO :: df formatted
+2018-11-11 15:13:19,407 :: INFO :: the new number of lines is 192519
+2018-11-11 15:13:19,430 :: INFO :: df formatted
+2018-11-11 15:14:04,596 :: INFO :: start importing the first 100000 lines of the train_df
+2018-11-11 15:14:05,122 :: INFO :: start formatting the train_df
+2018-11-11 15:14:16,375 :: INFO :: the new number of lines in the df is 96225
+2018-11-11 15:14:16,385 :: INFO :: done formatted the df
+2018-11-11 15:15:22,798 :: INFO :: start importing the first 200000 lines of the train_df
+2018-11-11 15:15:23,788 :: INFO :: start formatting the train_df
+2018-11-11 15:15:46,485 :: INFO :: the new number of lines in the df is 189584
+2018-11-11 15:15:46,505 :: INFO :: done formatted the df
+2018-11-11 15:15:52,891 :: INFO :: start importing the first 100000 lines of the train_df
+2018-11-11 15:15:53,419 :: INFO :: start formatting the train_df
+2018-11-11 15:16:05,648 :: INFO :: the new number of lines in the df is 94763
+2018-11-11 15:16:05,658 :: INFO :: done formatted the df
+2018-11-11 15:17:21,978 :: INFO :: start importing the first 100000 lines of the train_df
+2018-11-11 15:17:22,446 :: INFO :: start formatting the train_df
+2018-11-11 15:17:34,490 :: INFO :: the new number of lines in the df is 94700
+2018-11-11 15:17:34,501 :: INFO :: done formatted the df
+2018-11-11 15:18:11,001 :: INFO :: start importing the first 100000 lines of the train_df
+2018-11-11 15:18:17,187 :: INFO :: start importing the first 100000 lines of the train_df
+2018-11-11 15:18:17,727 :: INFO :: start formatting the train_df
+2018-11-11 15:18:28,648 :: INFO :: the new number of lines in the df is 94700
+2018-11-11 15:18:28,658 :: INFO :: done formatted the df
+2018-11-11 15:22:44,794 :: INFO :: start importing the first 100000 lines of the train_df
+2018-11-11 15:22:45,255 :: INFO :: start formatting the train_df
+2018-11-11 15:22:55,654 :: INFO :: the new number of lines in the df is 94700
+2018-11-11 15:22:55,663 :: INFO :: done formatted the df
+2018-11-11 15:28:45,755 :: INFO :: start importing the first 100 lines of the train_df
+2018-11-11 15:28:45,763 :: INFO :: start formatting the train_df
+2018-11-11 15:28:45,786 :: INFO :: the new number of lines in the df is 95
+2018-11-11 15:28:45,786 :: INFO :: done formatted the df
+2018-11-11 15:31:44,387 :: INFO :: start importing the first 1000 lines of the train_df
+2018-11-11 15:31:44,399 :: INFO :: start formatting the train_df
+2018-11-11 15:31:44,503 :: INFO :: the new number of lines in the df is 942
+2018-11-11 15:31:44,503 :: INFO :: done formatted the df
+2018-11-11 15:31:59,216 :: INFO :: start importing the first 1000000 lines of the train_df
+2018-11-11 15:32:03,810 :: INFO :: start formatting the train_df
+2018-11-11 15:33:41,819 :: INFO :: the new number of lines in the df is 947155
+2018-11-11 15:33:41,903 :: INFO :: done formatted the df
+2018-11-11 15:37:06,027 :: INFO :: start importing the first 1000 lines of the train_df
+2018-11-11 15:37:06,047 :: INFO :: start formatting the train_df
+2018-11-11 15:37:06,166 :: INFO :: the new number of lines in the df is 942
+2018-11-11 15:37:06,166 :: INFO :: done formatted the df
+2018-11-11 15:39:21,582 :: INFO :: start importing the first 1000 lines of the train_df
+2018-11-11 15:39:21,593 :: INFO :: start formatting the train_df
+2018-11-11 15:39:21,698 :: INFO :: the new number of lines in the df is 942
+2018-11-11 15:39:21,698 :: INFO :: done formatted the df
+2018-11-11 15:41:31,206 :: INFO :: start importing the first 1000 lines of the train_df
+2018-11-11 15:41:31,218 :: INFO :: start formatting the train_df
+2018-11-11 15:41:31,325 :: INFO :: the new number of lines in the df is 942
+2018-11-11 15:41:31,325 :: INFO :: done formatted the df
+2018-11-11 15:41:54,485 :: INFO :: start importing the first 1000 lines of the train_df
+2018-11-11 15:41:54,497 :: INFO :: start formatting the train_df
+2018-11-11 15:41:54,600 :: INFO :: the new number of lines in the df is 942
+2018-11-11 15:41:54,601 :: INFO :: done formatted the df
+2018-11-11 15:42:53,514 :: INFO :: start importing the first 1000000 lines of the train_df
+2018-11-11 15:42:57,884 :: INFO :: start formatting the train_df
+2018-11-11 15:44:35,010 :: INFO :: the new number of lines in the df is 947155
+2018-11-11 15:44:35,096 :: INFO :: done formatted the df
+2018-11-11 15:47:09,454 :: INFO :: start importing the first 1000000 lines of the train_df
+2018-11-11 15:47:13,961 :: INFO :: start formatting the train_df
+2018-11-11 15:47:27,742 :: INFO :: start importing the first 100000 lines of the train_df
+2018-11-11 15:47:28,268 :: INFO :: start formatting the train_df
+2018-11-11 15:47:40,540 :: INFO :: the new number of lines in the df is 94700
+2018-11-11 15:47:40,549 :: INFO :: done formatted the df
+2018-11-11 15:47:50,400 :: INFO :: graph ploted
