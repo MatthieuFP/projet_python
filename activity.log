@@ -162,3 +162,9 @@
 2018-11-11 15:47:40,540 :: INFO :: the new number of lines in the df is 94700
 2018-11-11 15:47:40,549 :: INFO :: done formatted the df
 2018-11-11 15:47:50,400 :: INFO :: graph ploted
+2018-11-11 15:48:57,480 :: INFO :: the new number of lines in the df is 947155
+2018-11-11 15:48:57,564 :: INFO :: done formatted the df
+2018-11-11 15:50:01,536 :: INFO :: start importing the first 1000000 lines of the train_df
+2018-11-11 15:50:08,530 :: INFO :: start formatting the train_df
+2018-11-11 15:52:09,492 :: INFO :: the new number of lines in the df is 947155
+2018-11-11 15:52:09,579 :: INFO :: done formatted the df
