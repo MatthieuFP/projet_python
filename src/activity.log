@@ -2,3 +2,27 @@
 2018-11-11 17:16:13,378 :: INFO :: start formatting the train_df
 2018-11-11 17:16:14,453 :: INFO :: the new number of lines in the df is 9478
 2018-11-11 17:16:14,454 :: INFO :: done formatted the df
+2018-11-12 13:23:56,416 :: INFO :: start importing the first 20000 lines of the train_df
+2018-11-12 13:23:56,489 :: INFO :: start formatting the train_df
+2018-11-12 13:24:01,840 :: INFO :: the new number of lines in the df is 18952
+2018-11-12 13:31:10,908 :: INFO :: start importing the first 20000 lines of the train_df
+2018-11-12 13:31:10,969 :: INFO :: start formatting the train_df
+2018-11-12 13:32:04,372 :: INFO :: the new number of lines in the df is 18952
+2018-11-12 13:32:26,865 :: INFO :: start importing the first 20000 lines of the train_df
+2018-11-12 13:32:26,923 :: INFO :: start formatting the train_df
+2018-11-12 13:32:32,728 :: INFO :: the new number of lines in the df is 18952
+2018-11-12 13:33:13,453 :: INFO :: start importing the first 20000 lines of the train_df
+2018-11-12 13:33:13,515 :: INFO :: start formatting the train_df
+2018-11-12 13:33:19,128 :: INFO :: the new number of lines in the df is 18952
+2018-11-12 13:34:52,203 :: INFO :: start importing the first 20000 lines of the train_df
+2018-11-12 13:34:52,259 :: INFO :: start formatting the train_df
+2018-11-12 13:34:57,483 :: INFO :: the new number of lines in the df is 18952
+2018-11-12 13:37:22,981 :: INFO :: start importing the first 20000 lines of the train_df
+2018-11-12 13:37:23,040 :: INFO :: start formatting the train_df
+2018-11-12 13:37:28,723 :: INFO :: the new number of lines in the df is 18952
+2018-11-12 13:37:35,151 :: INFO :: done formatted the df
+2018-11-12 13:59:03,113 :: INFO :: start importing the first 20000 lines of the train_df
+2018-11-12 13:59:03,181 :: INFO :: start formatting the train_df
+2018-11-12 14:04:31,151 :: INFO :: start importing the first 20000 lines of the train_df
+2018-11-12 14:04:31,209 :: INFO :: start formatting the train_df
+2018-11-12 14:04:36,438 :: INFO :: the new number of lines in the df is 18952

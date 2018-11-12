@@ -1,5 +1,9 @@
+from src.support.relative_path import get_relative_path
+
 # PATHS
-Root_data = "data"
+Root_path = get_relative_path()
+
+Root_data = Root_path + r"\data"
 Path_train = Root_data + r"\train.csv"
 Path_test = Root_data + r"\test.csv"
 Root_graphs = "graphs"
@@ -16,9 +20,9 @@ Dropoff_latitude = 'dropoff_latitude'
 Passenger_count = 'passenger_count'
 
 # Added Columns
-Date = 'date'
-Time = 'time'
+Date = 'Date'
+Time = 'Time'
 Week_day = 'week_day'
 Distance = "distance"
-Outlier = 'outlier'
-
+Outlier = 'Outlier'
+Month = 'month'
