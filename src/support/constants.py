@@ -11,7 +11,7 @@ Root_graphs = "graphs"
 # DF COLUMNS
 # Original Columns
 Key = 'key'
-Fare_amount= 'fare_amount'
+Fare_amount = 'fare_amount'
 Pickup_datetime = 'pickup_datetime'
 Pickup_longitude = 'pickup_longitude'
 Pickup_latitude = 'pickup_latitude'
