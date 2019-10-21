@@ -40,7 +40,7 @@ ruamel-yaml==0.15.35
 six==1.11.0
 tornado==5.1.1
 traitlets==4.3.2
-urllib3==1.22
+urllib3==1.24.2
 wcwidth==0.1.7
 win-inet-pton==1.0.1
 wincertstore==0.2
