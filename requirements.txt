@@ -5,7 +5,7 @@ cffi==1.11.4
 chardet==3.0.4
 colorama==0.4.0
 conda==4.4.10
-cryptography==2.3.1
+cryptography==3.2
 decorator==4.3.0
 fullpath==1.0.5
 geographiclib==1.49
